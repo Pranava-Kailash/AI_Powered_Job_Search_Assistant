@@ -1,4 +1,5 @@
 # 🎉 AI-Powered Job Search Assistant
+![alt text](https://github.com/Pranava-Kailash/AI_Powered_Job_Search_Assistant/blob/main/Streamlit_Front_end.png)
 
 ## 📚 Description
 The AI-Powered Job Search Assistant is a tool designed to streamline the job search process by leveraging **LangChain**, **OpenAI**, and **Streamlit**. This application scrapes job listings from LinkedIn based on user-defined job roles and locations, retrieves detailed job profiles, and provides valuable insights to users, such as required skills, CV keywords, and role expectations.
